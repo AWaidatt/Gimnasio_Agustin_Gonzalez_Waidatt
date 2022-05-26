@@ -161,7 +161,7 @@ header{
     border: solid 1px #141413;
     background-color: #141413;
     
-    margin-bottom: 40px;
+    margin-bottom: ;
     
     display: grid;
     grid-template-columns: repeat(7, auto)  ;
